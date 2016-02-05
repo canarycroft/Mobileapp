@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>What is a "cholita"?</question>
+              <option>A Spicy Burrito</option>
+              <option>Salsa Dip</option>
+              <option>Indigenous Lady</option>
+			  <answer>Indigenous Lady</answer>
+        </task>         
+        <task>
+              <question>What order are the colours on the bolivian flag</question>
+              <option>green, yellow, red</option>
+              <option>red, yellow, green</option>
+              <option>yellow, green, red</option>
+			  <answer>red, yellow, green</answer>
+        </task>         
+        <task>
+              <question>How many offically languages are there in bolivia</question>
+              <option>uno</option>
+              <option>dos</option>
+              <option>tres</option>
+			  <answer>tres</answer>
+        </task> 
+		<task>
+              <question>What is the largest lake in bolivia</question>
+              <option>Lake Titicaca</option>
+              <option>Lake Poopoo</option>
+              <option>Lake Cacapoo</option>
+			  <answer>Lake Titicaca</answer>
+        </task>
+		<task>
+              <question>What is 4 in spanish?</question>
+              <option>quattro</option>
+              <option>cuatro</option>
+              <option>four</option>
+			  <answer>cuatro</answer>
+        </task>          
+</All>
